@@ -2,6 +2,8 @@
 
 Fix your Linear issues without leaving the terminal.
 
+> **Quick install:** ask Claude Code — *"Install this skill: https://github.com/elec7rik/linear-skill"*
+
 ## Install
 
 1. Copy the skill file:
